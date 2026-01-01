@@ -1,0 +1,7 @@
+D:\ASP.NET-Landing-Page-main\ASP.NET-Landing-Page-main\obj\Release\net8.0\PubTmp\Out\Indotalent.exe
+D:\ASP.NET-Landing-Page-main\ASP.NET-Landing-Page-main\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\ASP.NET-Landing-Page-main\ASP.NET-Landing-Page-main\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\ASP.NET-Landing-Page-main\ASP.NET-Landing-Page-main\obj\Release\net8.0\PubTmp\Out\Indotalent.dll
+D:\ASP.NET-Landing-Page-main\ASP.NET-Landing-Page-main\obj\Release\net8.0\PubTmp\Out\Indotalent.deps.json
+D:\ASP.NET-Landing-Page-main\ASP.NET-Landing-Page-main\obj\Release\net8.0\PubTmp\Out\Indotalent.runtimeconfig.json
+D:\ASP.NET-Landing-Page-main\ASP.NET-Landing-Page-main\obj\Release\net8.0\PubTmp\Out\Indotalent.pdb
