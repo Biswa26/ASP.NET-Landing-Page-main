@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="16" height="16">
+  <!-- Rounded Background -->
+  <rect width="64" height="64" rx="14" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  
+  <!-- Outer Gear -->
+  <path d="M35.5 6h-7l-1 5.2a21 21 0 0 0-4.8 2l-4.5-2.8-5 5 2.8 4.5a21 21 0 0 0-2 4.8L8.8 26v7l5.2 1a21 21 0 0 0 2 4.8l-2.8 4.5 5 5 4.5-2.8a21 21 0 0 0 4.8 2l1 5.2h7l1-5.2a21 21 0 0 0 4.8-2l4.5 2.8 5-5-2.8-4.5a21 21 0 0 0 2-4.8l5.2-1v-7l-5.2-1a21 21 0 0 0-2-4.8l2.8-4.5-5-5-4.5 2.8a21 21 0 0 0-4.8-2z" 
+        fill="none" stroke="#125875" stroke-width="4" stroke-linejoin="round"/>
+        
+  <!-- Center 'P' Emblem -->
+  <path d="M25 43V21h11a6 6 0 0 1 6 6v0a6 6 0 0 1-6 6H25m6-12l10 12" 
+        fill="none" stroke="#125875" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
